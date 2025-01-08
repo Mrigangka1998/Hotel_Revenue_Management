@@ -4,7 +4,12 @@ This repository contains a comprehensive implementation of a hotel revenue manag
 
 ## Table of Contents
 1 - Project Overview
+
 2 - Key Features
+
 3 - Methodology
+
 4 - Technologies Used
+
 5 - Results
+
